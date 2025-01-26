@@ -1,0 +1,12 @@
+Field,Details
+Name,Abdul Waheed
+Project Link,https://vercel.com/ai-balushis-projects/template-9
+Key Steps,"1. API Testing: Verified endpoints.
+2. Data Migration: Imported API data into Sanity CMS.
+3. Schema Validation: Aligned schema with API data."
+Tools Used,"Postman, Sanity Studio, Custom Scripts"
+Highlights,"API integration focused on `/api/products`.
+Sanity CMS populated successfully.
+Documentation maintained."
+Error Handling,"Fallback values, centralized error logs, default loaders."
+Live Integration,Visit the live project link for detailed insights.
